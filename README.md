@@ -3,6 +3,6 @@
 <h2>Cloud Trainee <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Snow.png" alt="Cloud with Snow" width="25" height="25" /></h2>
 
 - 🌱 I’m currently learning Amazon Web Services.
-- 📫 How to reach me: juansebastiangilborda@gmail.com
+- 📫 How to reach me: juan.gil06@uptc.edu.co
 - ⚡ Fun fact: I'm getting into Data Analytics too. :D
 -->
