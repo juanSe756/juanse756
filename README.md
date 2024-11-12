@@ -4,5 +4,7 @@
 
 - 🌱 I’m currently learning Amazon Web Services.
 - 📫 How to reach me: juan.gil06@uptc.edu.co
+- 😀 I'm comfortable with: Python, Java, SQL.
+- 💪 I've used: Springboot, NodeJS, FastAPI.
 - ⚡ Fun fact: I'm getting into Data Analytics too. :D
 -->
