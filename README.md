@@ -7,4 +7,3 @@
 - 😀 I'm comfortable using: Python, Java, SQL.
 - 💪 I've used: Springboot, NodeJS, FastAPI.
 - ⚡ Fun fact: I'm getting into Data Analytics too. :D
--->
