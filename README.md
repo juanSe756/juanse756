@@ -6,4 +6,4 @@
 - 📫 How to reach me: juan.gil06@uptc.edu.co
 - 😀 I'm comfortable using: Python, SQL, Java.
 - 💪 I'm pretty good at: BigQuery, Data Warehousing, Terraform (IaC).
-- ⚡ Fun fact: I didn't know how much i like transfering cloud knowledge to my teamates until this year. :D
+- ⚡ Fun fact: I didn't know how much i like transfering cloud knowledge to my teammates until this year. :D
