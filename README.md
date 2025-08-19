@@ -6,5 +6,5 @@
 - 🌱 Mastering Cloud Skills around GCP and AWS.
 - 📫 How to reach me: juansebastiangilborda@gmail.com
 - 😀 I'm comfortable using: Python, SQL, Java.
-- 💪 I'm pretty good at: BigQuery, Data Warehousing, Terraform (IaC).
+- 💪 I'm pretty good at: BigQuery, Cloud Composer, Airflow, Data Warehousing, Terraform (IaC).
 - ⚡ Fun fact: I didn't know how much i like transfering cloud knowledge to my teammates until this year. :D
